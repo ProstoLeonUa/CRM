@@ -1,4 +1,7 @@
 # app-crm
+LIVE: https://crm-on-vue.web.app/
+
+### fixer - бесплатный тариф не поддерживает https, что бы работала страница "СЧЕТ" нужно платный тариф
 
 ## Project setup
 ```
